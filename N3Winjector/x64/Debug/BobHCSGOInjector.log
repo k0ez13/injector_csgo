@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (BobHCSGOInjector.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  global.h
+  HookBypass.cpp
+  Main.cpp
+C:\Users\Koez\Desktop\BobHCSGOInjector-master\BobHCSGOInjector\Main.cpp(40,16): warning C4101: 'lpstrCustomFilter': unreferenced local variable
+C:\Users\Koez\Desktop\BobHCSGOInjector-master\BobHCSGOInjector\Main.cpp(43,16): warning C4101: 'lpstrFile': unreferenced local variable
+C:\Users\Koez\Desktop\BobHCSGOInjector-master\BobHCSGOInjector\Main.cpp(41,16): warning C4101: 'nMaxCustFilter': unreferenced local variable
+  Generating Code...
+  BobHCSGOInjector.vcxproj -> C:\Users\Koez\Desktop\BobHCSGOInjector-master\x64\Debug\N3Winjector.exe
